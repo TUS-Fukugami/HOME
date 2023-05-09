@@ -11451,6 +11451,10 @@ section.resume-section .resume-section-content {
 .picture5{
   width:60%;
 }
+h2{
+  padding: 0em 0.18em;
+  border-left: solid 6px #343a40;/*左線*/
+}
 .video{
   width:60%;
   margin: 22px 15px;
