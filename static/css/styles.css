@@ -6150,6 +6150,11 @@ textarea.form-control-lg {
   margin-bottom: 3rem !important;
 }
 
+.mb-6 {
+  margin-bottom: 0 !important;
+  background: linear-gradient(transparent  70%, #ffc037  70%);
+}
+
 .mb-auto {
   margin-bottom: auto !important;
 }
@@ -10151,7 +10156,7 @@ section.resume-section .resume-section-content {
 }
 h2{
   padding: 0em 0.18em;
-  border-left: solid 6px #343a40;/*左線*/
+  border-left: solid 8px #343a40;/*左線*/
 }
 .video{
   width:60%;
